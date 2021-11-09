@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+var_dump(realpath_cache_get());
+?>
+
+</body>
+</html>
+
+
+
+
+
+
+array(12) { ["/var/www/html/demo/demo_form_validation_escapechar.php"]=> array(4) { ["key"]=> int(4083885225040087076) ["is_dir"]=> bool(false) ["realpath"]=> string(54) "/var/www/html/demo/demo_form_validation_escapechar.php" ["expires"]=> int(1636110736) } ["/var/www/html/demo/demo_form_validation_required.php"]=> array(4) { ["key"]=> int(3980889160840282178) ["is_dir"]=> bool(false) ["realpath"]=> string(52) "/var/www/html/demo/demo_form_validation_required.php" ["expires"]=> int(1636111075) } ["/var/www/html/demo/demo_session1.php"]=> array(4) { ["key"]=> float(1.3165434589548E+19) ["is_dir"]=> bool(false) ["realpath"]=> string(36) "/var/www/html/demo/demo_session1.php" ["expires"]=> int(1636111943) } ["/var/www/html"]=> array(4) { ["key"]=> int(1438560323331296433) ["is_dir"]=> bool(true) ["realpath"]=> string(13) "/var/www/html" ["expires"]=> int(1636112348) } ["/var/www/html/demo/welcome.php"]=> array(4) { ["key"]=> int(7960645272341695690) ["is_dir"]=> bool(false) ["realpath"]=> string(30) "/var/www/html/demo/welcome.php" ["expires"]=> int(1636111422) } ["/var/www"]=> array(4) { ["key"]=> float(1.5408950988325E+19) ["is_dir"]=> bool(true) ["realpath"]=> string(8) "/var/www" ["expires"]=> int(1636112348) } ["/var/www/html/demo/demo_func_filesystem_rp_cache_get.php"]=> array(4) { ["key"]=> int(7623026534141929717) ["is_dir"]=> bool(false) ["realpath"]=> string(56) "/var/www/html/demo/demo_func_filesystem_rp_cache_get.php" ["expires"]=> int(1636112348) } ["/var/www/html/demo/demo_session2.php"]=> array(4) { ["key"]=> int(7985553265533444368) ["is_dir"]=> bool(false) ["realpath"]=> string(36) "/var/www/html/demo/demo_session2.php" ["expires"]=> int(1636112093) } ["/var"]=> array(4) { ["key"]=> float(1.6710127960665E+19) ["is_dir"]=> bool(true) ["realpath"]=> string(4) "/var" ["expires"]=> int(1636112348) } ["/var/www/html/demo/demo_form_validation_complete.php"]=> array(4) { ["key"]=> int(3732681468771010956) ["is_dir"]=> bool(false) ["realpath"]=> string(52) "/var/www/html/demo/demo_form_validation_complete.php" ["expires"]=> int(1636112173) } ["/var/www/html/demo"]=> array(4) { ["key"]=> int(8591938057086545337) ["is_dir"]=> bool(true) ["realpath"]=> string(18) "/var/www/html/demo" ["expires"]=> int(1636112348) } ["/var/www/html/demo/demo_form_validation_special.php"]=> array(4) { ["key"]=> int(6519729189731170994) ["is_dir"]=> bool(false) ["realpath"]=> string(51) "/var/www/html/demo/demo_form_validation_special.php" ["expires"]=> int(1636112022)
